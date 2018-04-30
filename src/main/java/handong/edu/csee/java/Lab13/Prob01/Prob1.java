@@ -1,10 +1,10 @@
-package handong.edu.csee.java.Lab13.Prob1; // package name of Lab13 problem 1
+package handong.edu.csee.java.Lab13.Prob01; // package name of Lab13 problem 1
 
 public class Prob1 { // the main class for  problem 1
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 		Friend friend1 = new Friend(); // instantiation
 		SchoolFriend friend2 = new SchoolFriend();// instantiation
 		ClassFriend friend3 = new ClassFriend();// instantiation
