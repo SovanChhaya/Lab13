@@ -15,7 +15,7 @@ public class Science extends Book{// subclass that extends from supper class (Bo
 	{
 		return super.toString() + "\n\tPublisher: " + publisher;// return the name of publisher 
 	}
-	public void show()// 
+	public void show() //  method not return value just print out the result
 	{
 		System.out.println("<<<Science>>>" + this.toString());//print out <<<Science>>> and Id  BookName and Publisher name
 	}
